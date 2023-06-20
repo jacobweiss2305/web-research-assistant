@@ -14,7 +14,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline, AutoMode
 import faiss
 from langchain.vectorstores import FAISS
 from langchain.docstore import InMemoryDocstore
-from Embedding import HuggingFaceEmbedding
+import HuggingFaceEmbedding
 
 REPO_ID = "google/flan-t5-xxl"
 
