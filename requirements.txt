@@ -1,0 +1,12 @@
+langchain
+pandas
+faiss-cpu
+huggingface_hub
+python-dotenv
+torch
+bs4
+playwright
+transformers
+nest_asyncio
+retry
+duckduckgo-search
